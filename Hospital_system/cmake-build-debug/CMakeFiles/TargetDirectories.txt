@@ -1,0 +1,3 @@
+D:/Programs/Hospital_system/cmake-build-debug/CMakeFiles/Hospital_system.dir
+D:/Programs/Hospital_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programs/Hospital_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
